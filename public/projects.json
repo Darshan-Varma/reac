@@ -1,0 +1,29 @@
+[
+  {
+    "id": 5,
+    "title": "Ludo Game",
+    "url": "https://github.com/Darshan-Varma/PetProject_LudoGame",
+    "slug": "JavaScript",
+    "image": null,
+    "content": "Developed a multi-player game and designed it using HTML, CSS and used JQuery library for building the logic of the game.",
+    "type_id": 4,
+    "user_id": 1,
+    "created_at": "2023-04-21T09:28:23.000000Z",
+    "updated_at": "2023-04-21T11:39:17.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Delphia",
+      "last": "Huels",
+      "email": "terry81@example.com",
+      "email_verified_at": "2023-04-21T06:34:59.000000Z",
+      "created_at": "2023-04-21T06:34:59.000000Z",
+      "updated_at": "2023-04-21T06:34:59.000000Z"
+    },
+    "type": {
+      "id": 4,
+      "title": "JQuery",
+      "created_at": "2023-04-21T09:27:52.000000Z",
+      "updated_at": "2023-04-21T09:27:52.000000Z"
+    }
+  }
+]
